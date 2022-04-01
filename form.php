@@ -13,3 +13,4 @@ class User
 }
 
 echo User::getPasswordLength();
+//git -demo
